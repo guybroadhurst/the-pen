@@ -7,27 +7,27 @@ section {
 }
 
 .the-pen {
-  background-image: url("the-pen.svg");
+  background-image: url("../img/the-pen.svg");
   background-color: #ffffff;
 }
 
 .is-mightier {
-  background-image: url("is-mightier.svg");
+  background-image: url("../img/is-mightier.svg");
   background-color: #000000;
 }
 
 .than {
-  background-image: url("than.svg");
+  background-image: url("../img/than.svg");
   background-color: #ffffff;
 }
 
 .the-sword {
-  background-image: url("the-sword.svg");
+  background-image: url("../img/the-sword.svg");
   background-color: #000000;
 }
 
 .end {
-  background-image: url("end.svg");
+  background-image: url("../img/end.svg");
   background-color: #00F10A;
 }
 
