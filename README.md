@@ -1,5 +1,5 @@
 # The Pen is Mightier than the Sword
-> Here goes your awesome project description!
+Simple site based on the quote "The pen is mightier than the sword".
 
 ## Table of contents
 * [General info](#general-info)
